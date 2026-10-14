@@ -54,6 +54,7 @@
 | [NextCRM](https://github.com/pdovhomilja/nextcrm-app) | CRM with projects, invoicing, documents, and AI features | Next.js | ![GitHub stars](https://img.shields.io/github/stars/pdovhomilja/nextcrm-app?style=flat-square) |
 | [tiny-crm](https://github.com/frikishaan/tiny-crm) | Small CRM built with Filament PHP | PHP/Laravel | ![GitHub stars](https://img.shields.io/github/stars/frikishaan/tiny-crm?style=flat-square) |
 | [Warpdrive](https://github.com/sneg55/warpdrive) | Self-hosted business-development CRM reimplementing Pipedrive's pipeline, deal workspace, and two-way Gmail sync | Next.js/TypeScript | ![GitHub stars](https://img.shields.io/github/stars/sneg55/warpdrive?style=flat-square) |
+| [looot CRM](https://github.com/loootai/looot-crm) | Small-team CRM with companies, people, a pipeline board and a per-account intent tab (hiring, funding, tech stack, news, site changes); signal data comes from the paid looot API | Next.js/Supabase | ![GitHub stars](https://img.shields.io/github/stars/loootai/looot-crm?style=flat-square) |
 
 ## CRM Frameworks
 
